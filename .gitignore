@@ -1,0 +1,8 @@
+.ipynb_checkpoints/
+__pycache__/
+*.ipynb
+jesc_prepared/
+tokenizers/
+tokenizer_dummy/
+plan.txt
+decoding_old1.py
